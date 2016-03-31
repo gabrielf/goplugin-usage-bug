@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/andviro/noodle"
-	"github.com/gabrielf/go-sandbox/app"
+	"github.com/gabrielf/goplugin-usage-bug/app"
 	"github.com/gorilla/mux"
 )
 
